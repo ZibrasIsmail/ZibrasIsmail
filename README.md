@@ -49,7 +49,7 @@ You can use the website to generate badges: https://shields.io/
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Some useful resources for GitHub readme](https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-122c)
+- [Essentials of Computer Networking And Internet Protocols](https://zibras.medium.com/essentials-of-computer-networking-and-internet-protocols-ccd75fac3877)
 <!-- BLOG-POST-LIST:END -->
 
 ---
