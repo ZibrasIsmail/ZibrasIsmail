@@ -48,7 +48,8 @@ You can use the website to generate badges: https://shields.io/
   <br />
 </p>
 <br />
-### 📜 Certificates
+
+📜 Certificates
 
 - [React Crash Course with Hands-On Project](https://www.udemy.com/certificate/UC-731b5da7-e7f3-4a5e-a599-9e643da51287)
 - [How to Design & Prototype in Adobe XD](https://www.udemy.com/certificate/UC-1744ed34-f1f3-40b9-ad77-456d75677020/)
