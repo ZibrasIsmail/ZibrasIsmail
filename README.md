@@ -50,14 +50,13 @@ You can use the website to generate badges: https://shields.io/
 <br />
 ### 📜 Certificates
 
-- [AI for Medical Diagnosis](https://www.coursera.org/account/accomplishments/certificate/G6JEG9N5XDXN)
+- [React Crash Course with Hands-On Project](https://www.udemy.com/certificate/UC-731b5da7-e7f3-4a5e-a599-9e643da51287)
 - [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/M8AKYRJEV6DJ)
 - [End-to-End Machine Learning with TensorFlow on GCP](https://www.coursera.org/account/accomplishments/certificate/ND9YXC97CAWM)
 - [Natural Language Processing Nanodegree Program](https://confirm.udacity.com/SDJ9EF5F)
 
 ---
 <br />
-
 <img align="left" alt="ZibrasIsmail's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZibrasIsmail&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZibrasIsmail&show_icons=true&hide_border=true)](https://github.com/ZibrasIsmail)
