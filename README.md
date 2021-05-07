@@ -47,10 +47,10 @@ You can use the website to generate badges: https://shields.io/
 </p>
 <br />
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+### 📕 Latest Blog
+<!-- BLOG-LIST:START -->
 - [Essentials of Computer Networking And Internet Protocols](https://zibras.medium.com/essentials-of-computer-networking-and-internet-protocols-ccd75fac3877)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-LIST:END -->
 
 ---
 
