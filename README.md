@@ -47,6 +47,16 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
   <br />
 </p>
+<br />
+### 📜 Certificates
+
+- [AI for Medical Diagnosis](https://www.coursera.org/account/accomplishments/certificate/G6JEG9N5XDXN)
+- [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/M8AKYRJEV6DJ)
+- [End-to-End Machine Learning with TensorFlow on GCP](https://www.coursera.org/account/accomplishments/certificate/ND9YXC97CAWM)
+- [Natural Language Processing Nanodegree Program](https://confirm.udacity.com/SDJ9EF5F)
+
+---
+<br />
 
 <img align="left" alt="ZibrasIsmail's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZibrasIsmail&show_icons=true&hide_border=true" />
 
