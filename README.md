@@ -1,5 +1,4 @@
-# ZibrasIsmail
-A Brief Summary about Me
+A Brief Introduction about Me
 ### 👋 Hi there, I am Zibras Ismail!
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
