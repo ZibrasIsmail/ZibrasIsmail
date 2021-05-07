@@ -51,9 +51,8 @@ You can use the website to generate badges: https://shields.io/
 ### 📜 Certificates
 
 - [React Crash Course with Hands-On Project](https://www.udemy.com/certificate/UC-731b5da7-e7f3-4a5e-a599-9e643da51287)
-- [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/M8AKYRJEV6DJ)
-- [End-to-End Machine Learning with TensorFlow on GCP](https://www.coursera.org/account/accomplishments/certificate/ND9YXC97CAWM)
-- [Natural Language Processing Nanodegree Program](https://confirm.udacity.com/SDJ9EF5F)
+- [How to Design & Prototype in Adobe XD](https://www.udemy.com/certificate/UC-1744ed34-f1f3-40b9-ad77-456d75677020/)
+
 
 ---
 <br />
