@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**ZibrasIsmail/ZibrasIsmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # ZibrasIsmail
 A Brief Summary about Me
 ### 👋 Hi there, I am Zibras Ismail!
