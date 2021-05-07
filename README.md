@@ -47,6 +47,13 @@ You can use the website to generate badges: https://shields.io/
 </p>
 <br />
 
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Some useful resources for GitHub readme](https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-122c)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 📜 Certificates
 
 - [React Crash Course with Hands-On Project](https://www.udemy.com/certificate/UC-731b5da7-e7f3-4a5e-a599-9e643da51287)
