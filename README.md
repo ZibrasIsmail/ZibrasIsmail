@@ -4,6 +4,9 @@ A Brief Introduction about Me
 You can use the website to generate badges: https://shields.io/
 -->
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=programmingpirates&label=Profile%20views&color=0e75b6&style=flat" alt="programmingpirates" /> </p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://lk.linkedin.com/in/zibras-ismail)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://zibras.medium.com)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZibrasIsmail)
