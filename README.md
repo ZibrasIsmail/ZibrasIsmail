@@ -66,3 +66,4 @@ You can use the website to generate badges: https://shields.io/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZibrasIsmail&show_icons=true&hide_border=true)](https://github.com/ZibrasIsmail)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmingpirates&" alt="programmingpirates" /></p>
