@@ -5,7 +5,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZibrasIsmail&label=Profile%20views&color=0E75B0&style=flat" alt="ZibrasIsmail" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZibrasIsmail&label=Profile%20views&color=0EB09A&style=flat" alt="ZibrasIsmail" /> </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://lk.linkedin.com/in/zibras-ismail)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://zibras.medium.com)
