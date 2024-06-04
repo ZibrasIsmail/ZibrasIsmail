@@ -17,9 +17,12 @@
 ## About Me:
 
 - 🎓 I'm currently studying for BSc (Hons) in Information Technology & Management
+<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F7C665&random=false&width=435&lines=%F0%9F%8E%93+I'm+currently+studying+for+BSc+(Hons)+in+Information+Technology+%26+Management" /></a>
 - 🌱 I’m currently learning MERN Stack
+<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F7C665&random=false&width=435&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+MERN+Stack" /></a>
 - 👯 I’m looking to collaborate on any React or Node JS projects.
-<!-- - 🤔 I’m looking for help with any issue related to MERN Stack web applications -->
+<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F7C665&random=false&width=435&lines=%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+on+any+React+or+Node+JS+projects." /></a>
+<!-- - "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F7C665&random=false&width=435&lines=%F0%9F%A4%94+I%E2%80%99m+looking+for+help+with+any+issue+related+to+MERN+Stack+web+applications" -->
 - 📫 You can reach me __mohamedzibras2015@gmail.com__
  &nbsp;
 
