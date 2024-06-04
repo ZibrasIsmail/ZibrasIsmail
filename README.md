@@ -1,8 +1,7 @@
-A Brief Introduction about Me
-### 👋 Hi there, I am Zibras Ismail!
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+<p align="center">
+  <a href="https://github.com/ZibrasIsmail">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7C665&random=false&width=435&lines=Zibras+Ismail" /></a>
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZibrasIsmail&label=Profile%20views&color=0EB09A&style=flat" alt="ZibrasIsmail" /> </p>
